@@ -1,0 +1,20 @@
+{
+  "name": "interloper",
+  "version": "1.0.0",
+  "description": "A bot for the ASC Discord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ToughIke",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "images-scraper": "^6.3.0",
+    "node-fetch": "^2.6.1",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.5.0"
+  }
+}
